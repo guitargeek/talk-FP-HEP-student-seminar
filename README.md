@@ -14,11 +14,11 @@ paradigms.
 
 Preliminary contents:
 
-    * What is Functional Programming (FP)
-    * Relation between the FP and HEP communities
-    * FP in C++ and Python for your everyday work
-    * FP-inspired techniques in data science (e.g. split-apply-combine or map-reduce)
-    * How following FP paradigms enables easy parallelization of your code
+  * What is Functional Programming (FP)
+  * Relation between the FP and HEP communities
+  * FP in C++ and Python for your everyday work
+  * FP-inspired techniques in data science (e.g. split-apply-combine or map-reduce)
+  * How following FP paradigms enables easy parallelization of your code
 
 Reminder: this will not be a theoretical introduction to FP nor to functional
 languages like Haskell or OCaml. It’s a practical talk about how you can profit
